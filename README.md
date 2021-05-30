@@ -12,3 +12,6 @@
    - How many medals have the Japanese athletes won over time?
    - Who is the greatest athlete?
    - Timeline for number of medal each sport won over time
+
+![bryan-turner-mF9m6BRHCtg-unsplash](https://user-images.githubusercontent.com/85041697/120108362-de7a1380-c132-11eb-860c-1ba946ae58ff.jpg)
+
